@@ -56,6 +56,11 @@ public class Workers {
 	public String getlName() {
 		return lName;
 	}
+	
+	public String getfName() {
+		return lName;
+	}
+
 
 	public void setlName(String lName) {
 		this.lName = lName;
